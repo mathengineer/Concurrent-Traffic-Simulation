@@ -6,13 +6,41 @@
 
 #IncludeRegexTransform: 
 
-/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficLight.cpp
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Intersection.cpp
 iostream
+-
+thread
+-
+chrono
+-
+future
 -
 random
 -
+Street.h
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Street.h
+Intersection.h
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Intersection.h
+Vehicle.h
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Vehicle.h
+
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Intersection.h
+vector
+-
+future
+-
+mutex
+-
+memory
+-
+TrafficObject.h
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficObject.h
 TrafficLight.h
 /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficLight.h
+
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Street.h
+TrafficObject.h
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficObject.h
 
 /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficLight.h
 mutex
@@ -31,4 +59,8 @@ thread
 -
 mutex
 -
+
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Vehicle.h
+TrafficObject.h
+/Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficObject.h
 

@@ -5,6 +5,7 @@ CMakeFiles/traffic_simulation.dir/src/Graphics.cpp.o
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Graphics.cpp
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Graphics.h
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Intersection.h
+ /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficLight.h
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficObject.h
  /usr/local/Cellar/opencv/4.3.0/include/opencv4/opencv2/core.hpp
  /usr/local/Cellar/opencv/4.3.0/include/opencv4/opencv2/core/base.hpp
@@ -44,12 +45,14 @@ CMakeFiles/traffic_simulation.dir/src/Intersection.cpp.o
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Intersection.cpp
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Intersection.h
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Street.h
+ /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficLight.h
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficObject.h
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Vehicle.h
 CMakeFiles/traffic_simulation.dir/src/Street.cpp.o
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Intersection.h
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Street.cpp
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Street.h
+ /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficLight.h
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficObject.h
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Vehicle.h
 CMakeFiles/traffic_simulation.dir/src/TrafficLight.cpp.o
@@ -63,6 +66,7 @@ CMakeFiles/traffic_simulation.dir/src/TrafficSimulator-Final.cpp.o
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Graphics.h
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Intersection.h
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Street.h
+ /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficLight.h
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficObject.h
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficSimulator-Final.cpp
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Vehicle.h
@@ -99,6 +103,7 @@ CMakeFiles/traffic_simulation.dir/src/TrafficSimulator-Final.cpp.o
 CMakeFiles/traffic_simulation.dir/src/Vehicle.cpp.o
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Intersection.h
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Street.h
+ /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficLight.h
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/TrafficObject.h
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Vehicle.cpp
  /Users/mathengineer/Dropbox/Udacity Cpp/concurrency/Concurrent-Traffic-Simulation/src/Vehicle.h
